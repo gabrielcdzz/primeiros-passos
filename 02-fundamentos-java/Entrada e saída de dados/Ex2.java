@@ -17,5 +17,6 @@ public class Ex2 {
         int soma = n1 + n2;
 
         System.out.println("O resultado da soma entre os dois valores será:" + soma);
+        sc.close();
     }
 }

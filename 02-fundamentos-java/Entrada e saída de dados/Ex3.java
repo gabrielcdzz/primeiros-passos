@@ -18,5 +18,6 @@ public class Ex3 {
         String cidade = sc.nextLine();
 
         System.out.println("O seu nome é " + nome + "\n Sua idade é " + idade + "\n Sua cidade é " + cidade);
+        sc.close();
     }
 }
