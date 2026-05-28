@@ -1,4 +1,4 @@
-// Leia a nota de um aluno (0-100): Excelente (>=90), Bom (>=70), Regular (>=50) ou Insuficiente (<50).
+// Ex 2 — Leia a nota de um aluno (0-100): Excelente (>=90), Bom (>=70), Regular (>=50) ou Insuficiente (<50).
 package EstruturasCondicionais;
 import java.util.Scanner;
 

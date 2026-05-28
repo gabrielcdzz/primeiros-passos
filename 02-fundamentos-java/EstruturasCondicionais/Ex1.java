@@ -1,4 +1,4 @@
-// Leia um numero inteiro e exiba "Par" ou "Impar".
+// Ex 1 — Leia um numero inteiro e exiba "Par" ou "Impar".
 package EstruturasCondicionais;
 import java.util.Scanner;
 public class Ex1 {
