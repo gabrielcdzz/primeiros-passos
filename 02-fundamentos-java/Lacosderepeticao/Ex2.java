@@ -9,9 +9,13 @@ public class Ex2 {
         System.out.println("Este programa irá ler seu número e exibir a tabuada dele.");
         System.out.println("Por favor, me diga seu número de 1-10:");
         int numero = sc.nextInt();
+        int numeroi = numero;
 
-        for (; numero <= numero * 10{
+        System.out.printf("A tabuada de %d é: \n", numeroi);
 
+        for (; numero <= numeroi * 10; numero += numeroi){
+            
+        System.out.println(numero);
         }
 
         sc.close();
