@@ -1,4 +1,4 @@
-// Ex 5 — Leia 5 numeros e conte quantos sao pares e quantos sao impares, exiba ao final.
+// Ex 5 — Leia 5 numeros e conte quantos sao pares e quantos sao impares, exiba ao final..
 
 package Lacosderepeticao;
 import java.util.Scanner;
