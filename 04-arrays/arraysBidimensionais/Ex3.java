@@ -7,10 +7,14 @@ public class Ex3 {
         Scanner sc = new Scanner(System.in);
         int [][] matriz3x3 = new int[3][3];
         int contador = 1;
-
+        
         for (int i = 0; i < matriz3x3.length; i++) {
             for (int j = 0; j < matriz3x3.length; j++) {
                 System.out.printf("Por favor, digite o %d° número inteiro para %d,%d\n", contador++, i+1, j+1);
+                 while (!sc.hasNextInt()) {
+                    System.out.println("Este caractere não é um número inteiro. \n Digite novamente:");
+                    sc.next();
+                    }
                 matriz3x3[i][j] = sc.nextInt();
             }
         }
