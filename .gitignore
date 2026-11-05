@@ -1,0 +1,10 @@
+# Compilados
+*.class
+*.exe
+*.o
+out/
+
+# IDEs
+.idea/
+*.iml
+.vscode/
