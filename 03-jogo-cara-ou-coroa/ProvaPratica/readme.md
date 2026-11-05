@@ -1,0 +1,1 @@
+Programa que simula um jogo de CARA OU COROA contra a máquina.
