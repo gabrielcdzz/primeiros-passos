@@ -9,7 +9,7 @@ Antes, cada pasta era um repositório separado. Juntei todos aqui e mantive o hi
 | Pasta | Linguagem | O que pratica |
 |---|---|---|
 | [01-media-alunos-c](01-media-alunos-c) | C | Média de até 5 alunos usando funções |
-| [02-fundamentos-java](02-fundamentos-java) | Java | Variáveis, entrada e saída, condicionais, laços, números aleatórios e validação de entrada. No fim, um jogo de **par ou ímpar** contra o computador (`Projetofinal`) |
+| [02-fundamentos-java](02-fundamentos-java) | Java | Variáveis, entrada e saída, condicionais, laços, números aleatórios e validação de entrada. No fim, um jogo de **par ou ímpar** contra o computador (`projetofinal`) |
 | [03-jogo-cara-ou-coroa](03-jogo-cara-ou-coroa) | Java | Prova prática: cara ou coroa contra a máquina, com placar e validação de entrada |
 | [04-arrays](04-arrays) | Java | Arrays de uma e duas dimensões. As listas de embaralhamento manual e de métodos ficaram só com os arquivos criados, ainda sem código |
 | [05-jogo-da-memoria](05-jogo-da-memoria) | Java | Trabalho: jogo da memória multiplayer em um tabuleiro 7x7 |
